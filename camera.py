@@ -39,3 +39,4 @@ print(showPic)
 # 8. Shutdown the camera
 video.release()
 cv2.destroyAllWindows 
+
